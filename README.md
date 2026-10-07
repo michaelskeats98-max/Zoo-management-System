@@ -1,1 +1,1 @@
-# Zoo-management-System
+# Zoo-management-System was a coursework project as part of my java module in year 1 of my software engineering degree. This coursework project demonstrates a clear understanding of key object oriented programming principals such as inheritance, encapsulation and polymorphism.
